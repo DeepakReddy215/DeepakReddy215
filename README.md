@@ -1,4 +1,3 @@
-
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,50:3a0ca3,100:4cc9f0&height=240&section=header&text=Deepak%20Reddy&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=CSE%20Student%20%E2%80%A2%20Java%20%E2%80%A2%20Problem%20Solver&descAlignY=64&descSize=20" width="100%" />
 
 <div align="center">
@@ -77,16 +76,6 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/DeepakReddy215/DeepakReddy215/output/github-snake-dark.svg" alt="snake animation" />
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DeepakReddy215&theme=dracula&hide_border=true&area=true" width="100%" />
 
 </div>
 
